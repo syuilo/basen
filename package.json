@@ -1,0 +1,16 @@
+{
+  "name": "basen",
+  "version": "1.0.0",
+  "description": "N-Based string generator",
+  "main": "./src/basen.js",
+  "typings": "./src/basen.d.ts",
+  "repository": {
+    "url": "https://github.com/syuilo/basen.git"
+  },
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
