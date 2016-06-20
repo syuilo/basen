@@ -1,11 +1,6 @@
 basen
 ------------------------------------------------
 
-## Install
-``` bash
-npm install basen
-```
-
 ## Usage
 ``` js
 import basen from 'basen';
