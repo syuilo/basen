@@ -1,6 +1,8 @@
 basen
 ------------------------------------------------
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/syuilo/basen.svg)](https://greenkeeper.io/)
+
 ## Usage
 ``` js
 import basen from 'basen';
